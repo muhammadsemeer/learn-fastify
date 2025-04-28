@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fastify": "^3.28.0",
+    "fastify": "^5.2.1",
     "fastify-swagger": "^5.1.1",
     "nodemon": "^2.0.15",
     "uuid": "^8.3.2"
